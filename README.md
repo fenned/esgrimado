@@ -13,7 +13,7 @@
 - 👯 Buscando colaborar com projetos open-source e startups tech.
 - 🤔 Preciso de ajuda com arquitetura de software e Clean Code.
 - 💬 Me pergunte sobre JavaScript, Python, APIs, React, banco de dados.
-- 📫 Contato: **fenndlima@email.com**
+- 📫 Contato: **fennedfenned@gmail.com**
 - ⚡ Curiosidade: Movido a café, código limpo e desafios!
 
 ---
